@@ -139,3 +139,54 @@ img {
 img:hover {
     opacity: 0.8;
 }
+
+/* FOOTER */
+
+footer {
+    display: flex;
+    padding: 2px;
+    background: grey;
+}
+
+.footer-object {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 10px;
+    opacity: 0.3;
+}
+
+.footer-first {
+    background-color: red;
+    flex: 4;
+    text-align: left;
+}
+
+.footer-two {
+    background-color: orange;
+    flex: 4;
+    text-align: middle;
+}
+
+.footer-three {
+    background-color: yellow;
+    flex: 4;
+    text-align: middle;
+}
+
+.footer-four {
+    background-color: green;
+    flex: 4;
+    text-align: middle;
+}
+
+.footer-five {
+    background-color: blue;
+    flex: 4;
+    text-align: middle;
+}
+
+.footer-last {
+    background-color: purple;
+    flex: 4;
+    text-align: right;
+}
