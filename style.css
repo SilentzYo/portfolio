@@ -12,6 +12,14 @@ html {
     padding-right: 1%;
 }
 
+/* FONTS */
+
+.eb-garamond {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
 /* HEADER */
 
 .header {
@@ -75,6 +83,11 @@ hr {
     margin-bottom: 5%;
     tab-size: 3;
     line-height: 200%;
+}
+
+.poem-text {
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 .about {
@@ -154,6 +167,8 @@ a {
 .image:hover {
     opacity: 0.8;
 }
+
+/* CRWRIT SAKURA */
 
 .sakura {
     position: fixed;
@@ -249,12 +264,6 @@ a {
         transform: translateX(-30vw);
     }
 }
-
-.eb-garamond {
-    font-family: "EB Garamond", serif;
-    font-optical-sizing: auto;
-    font-style: normal;
-  }
 
 /* FOOTER */
 
