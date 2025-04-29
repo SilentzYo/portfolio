@@ -269,42 +269,7 @@ footer {
     color: whitesmoke;
     font-size: 10px;
     opacity: 0.3;
-}
-
-.footer-first {
-    background-color: grey;
     flex: 4;
-    text-align: left;
-}
-
-.footer-two {
-    background-color: grey;
-    flex: 4;
-    text-align: middle;
-}
-
-.footer-three {
-    background-color: yellow;
-    flex: 4;
-    text-align: middle;
-}
-
-.footer-four {
-    background-color: green;
-    flex: 4;
-    text-align: middle;
-}
-
-.footer-five {
-    background-color: blue;
-    flex: 4;
-    text-align: middle;
-}
-
-.footer-last {
-    background-color: grey;
-    flex: 4;
-    text-align: right;
 }
 
 ::-webkit-scrollbar {
