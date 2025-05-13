@@ -248,7 +248,11 @@ footer {
 }
 
 .light-grey {
-    background-color: lightgrey;
+    background-color: rgba(211, 211, 211, 0.674);
+}
+
+.light-green {
+    background-color: lightgreen;
 }
 
 .pixelated {
