@@ -241,3 +241,7 @@ footer {
 .light-grey {
     background-color: lightgrey;
 }
+
+.pixelated {
+    image-rendering: pixelated;
+}

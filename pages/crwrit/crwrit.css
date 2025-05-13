@@ -112,3 +112,15 @@
     padding-bottom: 1%;
     padding-top: 1%;
 }
+
+.concert-hall {
+    background: #FFD580;
+    background: radial-gradient(circle, rgba(255, 213, 128, 1) 50%, rgba(110, 0, 0, 1) 100%);
+}
+
+.concert-text {
+    color: black;
+    background-color: #90909030;
+    padding: 2%;
+    border-radius: 50px;
+}
