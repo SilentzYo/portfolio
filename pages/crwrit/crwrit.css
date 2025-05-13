@@ -115,7 +115,7 @@
 
 .concert-hall {
     background: #FFD580;
-    background: radial-gradient(circle, rgba(255, 213, 128, 1) 50%, rgba(110, 0, 0, 1) 100%);
+    background: radial-gradient(circle, rgba(255, 213, 128, 1) 70%, rgba(110, 0, 0, 1) 100%);
 }
 
 .concert-text {
@@ -123,4 +123,9 @@
     background-color: #90909030;
     padding: 2%;
     border-radius: 50px;
+}
+
+.concert-spacing {
+    padding-top: 1%;
+    padding-bottom: 1%;
 }

@@ -118,6 +118,15 @@ hr {
 }
 */
 
+.piece {
+    flex-direction: column;
+    cursor: pointer;
+    gap: 1.3rem;
+    opacity: 1;
+    display: inline-block;
+    flex-grow: 1;
+}
+
 .project {
     flex-direction: column;
     cursor: pointer;
